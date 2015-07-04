@@ -1,0 +1,13 @@
+{
+  "name": "Proximity",
+  "description": "Web API Test",
+  "type": "web",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "masap",
+    "url": "https://github.com/masap/fxos_samples"
+  },
+  "icons": {
+    "128": "/style/icons/html5.png"
+  }
+}
