@@ -1,0 +1,15 @@
+{
+  "name": "Alarm",
+  "description": "Web API Test",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "masap",
+    "url": "https://github.com/masap/gaia"
+  },
+  "permissions": {
+    "alarms":{}
+  },
+  "icons": {
+    "128": "/style/icons/html5.png"
+  }
+}
