@@ -1,0 +1,15 @@
+{
+  "name": "Web Notification",
+  "description": "Web API Test",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "masap",
+    "url": "https://github.com/masap/fxos_samples"
+  },
+  "permissions": {
+    "desktop-notification":{}
+  },
+  "icons": {
+    "128": "/style/icons/html5.png"
+  }
+}
